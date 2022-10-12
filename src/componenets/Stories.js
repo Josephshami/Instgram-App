@@ -3,7 +3,6 @@ import "../styles/stories.scss"
 import Story from "./Story"
 import 'swiper/css'; 
 import { Swiper, SwiperSlide } from "swiper/react";
-import {useState} from "react"
 
 function Stories() {
   return (
